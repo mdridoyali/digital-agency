@@ -242,7 +242,7 @@ footer{
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 55vh;
+    height: 60vh;
     color: white;
     margin-top: 20px;
 }
@@ -276,6 +276,7 @@ hr{
     text-align: center;
     padding: 15px;
     font-size: 14px;
+    padding-bottom: 30px;
 }
 
 
