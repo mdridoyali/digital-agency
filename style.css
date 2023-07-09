@@ -1,0 +1,102 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+body{
+    font-family: open sans;
+}
+.nav-section{
+    background: rgb(162, 162, 162);
+    display: flex;
+    justify-content: space-around;
+    gap: 400px;
+    align-items: center;
+    padding: 10px;
+}
+.nav-menu-section ul{
+    display: flex;
+    gap: 30px;
+}
+.nav-menu-section li{
+    list-style: none;
+   
+}
+.nav-menu-section li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    transition: 0.1s;
+}
+.nav-menu-section li a:hover{
+    color: tomato;
+}
+.banner-section{
+    background-image: url(asset/image/background.jpg), linear-gradient(rgb(82, 82, 82), rgb(82, 82, 82)) ;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    align-items: center;
+    display: flex;
+
+}
+.primary-color{
+    color: red;
+}
+.banner-container-desc{
+    width: 50%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+.banner-container-desc h2{
+    font-size: 50px;
+}
+.banner-container-desc p{
+    font-size: 16px;
+}
+.banner-container-desc button{
+    padding: 10px 15px;
+    border: none;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    margin-right: 10px;
+}
+#seconnd-btn{
+    color: black;
+    background: white;
+}
+
+/* header section end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
